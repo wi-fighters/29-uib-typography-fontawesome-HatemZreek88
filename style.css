@@ -1,7 +1,25 @@
-
-.nav-item, .media-links {
-    list-style: none;
+.nav-item,
+.media-links {
+  list-style: none;
+  text-align: center;
 }
-
-
-
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+.fa-sun {
+  font-size: 0.75em;
+}
+.review {
+  text-align: center;
+  text-shadow: 1px 1px 1px black;
+  text-transform: uppercase;
+}
+.fa-trophy,
+.fa-wave-square,
+.fa-palette,
+.fa-sad-tear,
+.fa-meh,
+.fa-grin {
+  font-size: 2em;
+}
